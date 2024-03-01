@@ -1,5 +1,5 @@
 package classroom;
-
+//NOOOO TOOOOCAAAAR
 public class Taller4 {
 
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Taller4 {
         estudiantes1[2] = new Persona(71212, "Maria");
         Persona profesor1 = new Persona("Juan", 988);
         Asignatura asignatura1 = new Asignatura("Calculo",Tipo.FUNDAMENTACION);
-        Grupo grupo1 = new Grupo(estudiantes1, profesor1, asignatura1, 10023, "M J 2-4");
+        //Grupo grupo1 = new Grupo(estudiantes1, profesor1, asignatura1, 10023, "M J 2-4");
 
         Persona profesor2 = new Persona(99212, "Andrea");
         Asignatura asignatura2 = new Asignatura(882,Tipo.DISCIPLINAR);
